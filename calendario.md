@@ -1,6 +1,6 @@
 # Calendario de contenido
 
-Generado: 2026-09-08. Personaliza cada ejemplo con experiencia real antes de publicarlo.
+Generado: 2026-09-14. Personaliza cada ejemplo con experiencia real antes de publicarlo.
 
 ## Día 1: edición de vídeos cortos
 
